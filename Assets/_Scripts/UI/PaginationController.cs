@@ -42,22 +42,19 @@ public class PaginationController : MonoBehaviour
 
 	public void DestroyPagination(int pageCount)
 	{
-		//if(galleryPageCount > 1)
-		//{
-			//Clear pagination
-			PaginationIndicatorDots.Clear();
-			for(var i = PaginationIndicatorDots.Count - 1; i > -1; i--)
-			{
-				PaginationIndicatorDots.RemoveAt(i);
-			}
-			foreach (Transform child in PaginationContainer.transform)
-			{
-				Destroy(child.gameObject);
-			}
-
-			//Create pagination
-			CreatePagination(pageCount);
-		//}
+		//Clear pagination
+		PaginationIndicatorDots.Clear();
+		for(var i = PaginationIndicatorDots.Count - 1; i > -1; i--)
+		{
+			PaginationIndicatorDots.RemoveAt(i);
+		}
+		foreach (Transform child in PaginationContainer.transform)
+		{
+			Destroy(child.gameObject);
+		}
+	
+		//Create pagination
+		CreatePagination(pageCount);
 	}
 
 	int GalleryPagesCount()

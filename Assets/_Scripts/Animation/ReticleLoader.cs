@@ -53,11 +53,4 @@ public class ReticleLoader : MonoBehaviour
 	{
 		Toolbar.DOAnchorPosY(-90f, 0.2f).SetEase(Ease.OutSine);
 	}
-
-//	public void ShowUI()
-//	{
-//		ReticleLoaderElement.DOFillAmount(0f, 0.7f).SetEase(Ease.OutSine);
-//	}
-
-
 }
