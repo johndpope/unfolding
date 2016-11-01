@@ -1,0 +1,53 @@
+{
+    "features":
+    {
+        "JellegtelenTooltip":
+        {
+            "title": "Featureless facade",
+            "subtitle": "Reconstructions",
+		  "description": "JellegtelenText",
+		  "imageCount" : "2",
+		  "imageFolderName": "JellegtelenImages"
+        },
+        "ElemzesTooltip":
+        { 
+            "title": "Facade",
+            "subtitle": "Architectural elements",
+		  "description": "ElemzesText",
+		  "imageCount" : "2",
+		  "imageFolderName": "ElemzesImages"
+        },
+        "PilaszterekTooltip":
+        {
+            "title": "Pillasters",
+            "subtitle": "Architectural elements",
+		  "description": "PilaszterekText",
+		  "imageCount" : "3",
+		  "imageFolderName": "PilaszterekImages"
+        },
+	   "MakkhetesTooltip":
+        {
+            "title": "Makkhetes",
+            "subtitle": "Function",
+		  "description": "MakkhetesText",
+		  "imageCount" : "3",
+		  "imageFolderName": "MakkhetesImages"
+        },
+	   "EredetiTooltip":
+        {
+            "title": "Facade",
+            "subtitle": "Architectural drawings",
+		  "description": "EredetiText",
+		  "imageCount" : "3",
+		  "imageFolderName": "EredetiImages"
+        },
+	   "EklektikusTooltip":
+        {
+            "title": "Eclecticism",
+            "subtitle": "Architectural elements",
+		  "description": "EklektikusText",
+		  "imageCount" : "2",
+		  "imageFolderName": "EklektikusImages"
+        }
+    }
+}  
