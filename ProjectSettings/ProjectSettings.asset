@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 1
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Kitchen Budapest
   productName: Unfolding
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -135,8 +135,10 @@ PlayerSettings:
   iPhone47inSplashScreen: {fileID: 0}
   iPhone55inPortraitSplashScreen: {fileID: 0}
   iPhone55inLandscapeSplashScreen: {fileID: 0}
-  iPadPortraitSplashScreen: {fileID: 0}
-  iPadHighResPortraitSplashScreen: {fileID: 0}
+  iPadPortraitSplashScreen: {fileID: 2800000, guid: a86928cba8faa4625a1d94b3c1ca196f,
+    type: 3}
+  iPadHighResPortraitSplashScreen: {fileID: 2800000, guid: a86928cba8faa4625a1d94b3c1ca196f,
+    type: 3}
   iPadLandscapeSplashScreen: {fileID: 0}
   iPadHighResLandscapeSplashScreen: {fileID: 0}
   appleTVSplashScreen: {fileID: 0}
@@ -183,6 +185,44 @@ PlayerSettings:
       m_Icon: {fileID: 0}
       m_Width: 128
       m_Height: 128
+  - m_BuildTarget: iPhone
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: a87b28fb6e4c240cbbbb9d1700cd2527, type: 3}
+      m_Width: 180
+      m_Height: 180
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 167
+      m_Height: 167
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 152
+      m_Height: 152
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 144
+      m_Height: 144
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 120
+      m_Height: 120
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 114
+      m_Height: 114
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 76
+      m_Height: 76
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 72
+      m_Height: 72
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 57
+      m_Height: 57
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: AndroidPlayer

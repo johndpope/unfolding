@@ -5978,7 +5978,7 @@ Prefab:
     - target: {fileID: 224000014121449304, guid: 9914d771386ee45c39c4ca238e563542,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: -18
       objectReference: {fileID: 0}
     - target: {fileID: 114000012480037240, guid: 9914d771386ee45c39c4ca238e563542,
         type: 2}
@@ -9213,11 +9213,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22400012, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -744
       objectReference: {fileID: 0}
     - target: {fileID: 22400012, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: -35.65741
       objectReference: {fileID: 0}
     - target: {fileID: 22400012, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_AnchorMin.x
@@ -9253,7 +9253,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22400010, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 11408116, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -9321,7 +9321,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22471900, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 11481292, guid: 63615b8cc575fc3419a99b345e5bbe37, type: 2}
       propertyPath: m_Color.a
